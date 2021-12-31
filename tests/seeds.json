@@ -1,0 +1,32 @@
+{
+    "users": {
+        "shivam": {
+            "firstName": "shivam",
+            "lastName": "pawar",
+            "email": "shivam.pawar@o3.com",
+            "password": "bluewhale",
+            "phone": "9000000000"
+        },
+        "kim": {
+            "firstName": "kim",
+            "lastName": "kardashian",
+            "email": "kim.kardashian@o3.com",
+            "password": "bluewhale",
+            "phone": "9000000001"
+        }
+    },
+    "contacts": {
+        "kylie": {
+            "firstName": "kylie",
+            "lastName": "jenner",
+            "email": "kylie.jenner@o3.com",
+            "phone": "9000000002"
+        },
+        "margot": {
+            "firstName": "margot",
+            "lastName": "robbie",
+            "email": "margot.margot@o3.com",
+            "phone": "9000000003"
+        }
+    }
+}
